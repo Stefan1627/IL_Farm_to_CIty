@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "760672313111",
+    "project_id": "il-farm-to-city",
+    "storage_bucket": "il-farm-to-city.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760672313111:android:2284099aa73786eeb76152",
+        "android_client_info": {
+          "package_name": "com.example.il_farm_to_city"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOCr_Cbq9-Et15uySAA8gzafCQk9sB-P8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
