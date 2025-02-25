@@ -1,5 +1,6 @@
 package com.example.il_farm_to_city
 
+import android.content.Intent
 import android.os.Bundle
 import android.util.Log
 import android.widget.Button
@@ -23,6 +24,12 @@ class MainActivity : AppCompatActivity() {
         val emailEditText = findViewById<EditText>(R.id.emailEditText)
         val passwordEditText = findViewById<EditText>(R.id.passwordEditText)
         val loginButton = findViewById<Button>(R.id.loginButton)
+        val signUpButton = findViewById<Button>(R.id.signupButton)
+
+        signUpButton.setOnClickListener {
+            val intent = Intent(this, SignUpOptions::class.java)
+            startActivity(intent)
+        }
 
         // Handle login button click
         loginButton.setOnClickListener {

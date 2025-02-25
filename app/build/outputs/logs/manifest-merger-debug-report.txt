@@ -214,16 +214,18 @@ MERGED from [com.google.android.play:core-common:2.0.3] /home/stefan/.gradle/cac
 		ADDED from /home/stefan/AndroidStudioProjects/IL_Farm_to_CIty/app/src/main/AndroidManifest.xml:13:9-53
 	android:dataExtractionRules
 		ADDED from /home/stefan/AndroidStudioProjects/IL_Farm_to_CIty/app/src/main/AndroidManifest.xml:7:9-65
+activity#com.example.il_farm_to_city.SignUpOptions
+ADDED from /home/stefan/AndroidStudioProjects/IL_Farm_to_CIty/app/src/main/AndroidManifest.xml:15:9-51
+	android:name
+		ADDED from /home/stefan/AndroidStudioProjects/IL_Farm_to_CIty/app/src/main/AndroidManifest.xml:15:19-48
 activity#com.example.il_farm_to_city.MainActivity
-ADDED from /home/stefan/AndroidStudioProjects/IL_Farm_to_CIty/app/src/main/AndroidManifest.xml:15:9-25:20
-	android:label
-		ADDED from /home/stefan/AndroidStudioProjects/IL_Farm_to_CIty/app/src/main/AndroidManifest.xml:18:13-45
+ADDED from /home/stefan/AndroidStudioProjects/IL_Farm_to_CIty/app/src/main/AndroidManifest.xml:16:9-25:20
 	android:exported
-		ADDED from /home/stefan/AndroidStudioProjects/IL_Farm_to_CIty/app/src/main/AndroidManifest.xml:17:13-36
+		ADDED from /home/stefan/AndroidStudioProjects/IL_Farm_to_CIty/app/src/main/AndroidManifest.xml:18:13-36
 	android:theme
 		ADDED from /home/stefan/AndroidStudioProjects/IL_Farm_to_CIty/app/src/main/AndroidManifest.xml:19:13-57
 	android:name
-		ADDED from /home/stefan/AndroidStudioProjects/IL_Farm_to_CIty/app/src/main/AndroidManifest.xml:16:13-41
+		ADDED from /home/stefan/AndroidStudioProjects/IL_Farm_to_CIty/app/src/main/AndroidManifest.xml:17:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from /home/stefan/AndroidStudioProjects/IL_Farm_to_CIty/app/src/main/AndroidManifest.xml:20:13-24:29
 action#android.intent.action.MAIN

@@ -1104,6 +1104,7 @@ id collapseActionView
 id compose_view_saveable_id_tag
 id constraint
 id consume_window_insets_tag
+id consumerButton
 id content
 id contentPanel
 id continuousVelocity
@@ -1219,6 +1220,7 @@ id percent
 id pooling_container_listener_holder_tag
 id position
 id postLayout
+id producerButton
 id progress_circular
 id progress_horizontal
 id radio
@@ -1251,6 +1253,7 @@ id shortcut
 id showCustom
 id showHome
 id showTitle
+id signupButton
 id sin
 id skipped
 id south
@@ -1294,6 +1297,10 @@ id text2
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textView
+id textView2
+id textView3
+id textView4
+id textView5
 id time
 id title
 id titleDividerNoCustom
@@ -1383,7 +1390,10 @@ layout notification_template_part_time
 layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
+layout signup
 layout support_simple_spinner_dropdown_item
+mipmap consumer_128
+mipmap farmer_128
 mipmap ic_launcher
 mipmap ic_launcher_round
 raw firebase_common_keep
@@ -1445,10 +1455,15 @@ string common_google_play_services_wear_update_text
 string common_open_on_phone
 string common_signin_button_text
 string common_signin_button_text_long
+string consumer
+string consumer_sign_up
+string continue_as_guest
 string copy_toast_msg
 string default_error_message
 string default_popup_window_title
 string dropdown_menu
+string enter_email
+string enter_password
 string fallback_menu_item_copy_link
 string fallback_menu_item_open_in_browser
 string fallback_menu_item_share_link
@@ -1459,6 +1474,7 @@ string google_crash_reporting_api_key
 string google_storage_bucket
 string in_progress
 string indeterminate
+string login
 string m3c_bottom_sheet_collapse_description
 string m3c_bottom_sheet_dismiss_description
 string m3c_bottom_sheet_drag_handle_description
@@ -1519,11 +1535,15 @@ string m3c_tooltip_pane_description
 string main_name
 string navigation_menu
 string not_selected
+string producer
+string producer_sign_up
 string project_id
 string range_end
 string range_start
 string search_menu_title
 string selected
+string sign_up_btn
+string signup_main
 string state_empty
 string state_off
 string state_on
@@ -1533,6 +1553,7 @@ string tab
 string template_percent
 string tooltip_description
 string tooltip_label
+string what_are_you
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog

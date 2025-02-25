@@ -8,12 +8,23 @@
     <color name="teal_700">#FF018786</color>
     <color name="white">#FFFFFFFF</color>
     <string name="app_name">IL_Farm_to_CIty</string>
+    <string name="consumer">Consumer</string>
+    <string name="consumer_sign_up">consumer sign up</string>
+    <string name="continue_as_guest">Continue as guest</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
     <string name="gcm_defaultSenderId" translatable="false">760672313111</string>
     <string name="google_api_key" translatable="false">AIzaSyAOCr_Cbq9-Et15uySAA8gzafCQk9sB-P8</string>
     <string name="google_app_id" translatable="false">1:760672313111:android:2284099aa73786eeb76152</string>
     <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAOCr_Cbq9-Et15uySAA8gzafCQk9sB-P8</string>
     <string name="google_storage_bucket" translatable="false">il-farm-to-city.firebasestorage.app</string>
+    <string name="login">Login</string>
     <string name="main_name">Farm to City</string>
+    <string name="producer">Producer</string>
+    <string name="producer_sign_up">producer sign up</string>
     <string name="project_id" translatable="false">il-farm-to-city</string>
+    <string name="sign_up_btn">Sign up!</string>
+    <string name="signup_main">Don\'t have an account?</string>
+    <string name="what_are_you">What are you?</string>
     <style name="Theme.IL_Farm_to_CIty" parent="Theme.AppCompat.Light.DarkActionBar"/>
 </resources>

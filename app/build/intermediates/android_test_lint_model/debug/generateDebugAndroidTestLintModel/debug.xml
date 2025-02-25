@@ -25,6 +25,6 @@
       type="INSTRUMENTATION_TEST"
       applicationId="com.example.il_farm_to_city.test"
       generatedResourceFolders="build/generated/res/resValues/androidTest/debug"
-      desugaredMethodsFiles="/home/stefan/.gradle/caches/8.10.2/transforms/a9a38caa1de9243ce8e550a6c7840c4f/transformed/D8BackportedDesugaredMethods.txt">
+      desugaredMethodsFiles="/home/stefan/.gradle/caches/8.10.2/transforms/75c1ed81555dd253258be06dff56c717/transformed/D8BackportedDesugaredMethods.txt">
   </artifact>
 </variant>

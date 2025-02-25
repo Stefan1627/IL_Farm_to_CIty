@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.il_farm_to_city.app-mergeReleaseResources-55:/values-watch-v20/values-watch-v20.xml",
+            "outputFile": "com.example.il_farm_to_city.app-mergeReleaseResources-59:/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
-                    "source": "/home/stefan/.gradle/caches/8.10.2/transforms/e7dabcde7659bb60b80eb4c52531b141/transformed/play-services-auth-20.7.0/res/values-watch-v20/values.xml",
+                    "source": "/home/stefan/.gradle/caches/8.10.2/transforms/441d9a49880a545d30582c1efa6b1a13/transformed/play-services-auth-20.7.0/res/values-watch-v20/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11",
                         "startColumns": "0,0,0,0,0,0,0,0",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/home/stefan/.gradle/caches/8.10.2/transforms/5f6d7211347d72dfcc1ffa952022bf0d/transformed/appcompat-1.7.0/res/values-watch-v20/values-watch-v20.xml",
+                    "source": "/home/stefan/.gradle/caches/8.10.2/transforms/99ba5e86a1678063bd6cfbe678a4983d/transformed/appcompat-1.7.0/res/values-watch-v20/values-watch-v20.xml",
                     "from": {
                         "startLines": "2,5,8",
                         "startColumns": "4,4,4",

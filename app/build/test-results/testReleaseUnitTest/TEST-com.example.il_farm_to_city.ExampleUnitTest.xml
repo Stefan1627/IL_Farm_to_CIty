@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.example.il_farm_to_city.ExampleUnitTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-02-24T20:32:35" hostname="Stefan-Racheta" time="0.011">
+<testsuite name="com.example.il_farm_to_city.ExampleUnitTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-02-25T10:50:44" hostname="Stefan-Racheta" time="0.033">
   <properties/>
-  <testcase name="addition_isCorrect" classname="com.example.il_farm_to_city.ExampleUnitTest" time="0.011"/>
+  <testcase name="addition_isCorrect" classname="com.example.il_farm_to_city.ExampleUnitTest" time="0.033"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
